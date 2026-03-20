@@ -1,0 +1,23 @@
+# Maven
+target/
+*.pom
+*.war
+*.ear
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.settings/
+.classpath
+
+# Logs
+logs/
+*.log
+
+# Other
+testdata/excel/testdata.xlsx
